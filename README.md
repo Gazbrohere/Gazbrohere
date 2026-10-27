@@ -1,16 +1,22 @@
-## Hi there 👋
+# Gazi Rezwan Hassan Rishad
 
-<!--
-**Gazbrohere/Gazbrohere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on building practical, reliable, and user-friendly digital experiences.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy turning ideas into clear, maintainable software.
+- I value thoughtful design, readable code, and continuous learning.
+- Open to collaboration on meaningful open-source and software projects.
+
+## What I care about
+
+- Building useful products
+- Writing maintainable code
+- Learning in public
+- Helping others through documentation and collaboration
+
+## Connect
+
+- GitHub: [@Gazbrohere](https://github.com/Gazbrohere)
+
+Thanks for stopping by.
