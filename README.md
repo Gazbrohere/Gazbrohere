@@ -1,29 +1,32 @@
 # Gazi Rezwan Hassan Rishad
 
-Software developer building privacy-first, secure, and user-friendly products.
+Software developer building privacy-first, secure, and user-friendly software.
 
 ## Featured project
 
 ### [ScamShield](https://github.com/Gazbrohere/scamshield)
 
-A privacy-first scam-triage platform for messages, screenshots, voice clips, and opt-in Android safety events. It combines explainable analysis, multilingual reporting, a cross-platform PWA, and security-focused engineering.
+Privacy-first scam triage for messages, screenshots, voice clips, and opt-in Android safety events.
 
-- **Focus:** application security, privacy, AI-assisted analysis, and accessible product design
-- **Stack:** Python, FastAPI, Pydantic, Docker, JavaScript, Kotlin, and Android
-- **Highlights:** no URL fetching, bounded model calls, transparent fallbacks, and permission-bound device integration
+- **Builds:** explainable AI-assisted analysis, multilingual reporting, and a cross-platform PWA
+- **Engineering:** FastAPI, Pydantic, Docker, JavaScript, Kotlin, and Android
+- **Security:** in-memory processing, no URL fetching, bounded model calls, transparent fallbacks, and permission-bound device integration
+- **Status:** public project with automated tests, dependency monitoring, secret scanning, and container security checks
 
-## What I care about
+[Explore ScamShield](https://github.com/Gazbrohere/scamshield)
 
-- Building useful software that solves real problems
-- Designing secure systems with clear boundaries and honest limitations
-- Writing maintainable code and documentation
-- Learning in public and collaborating on meaningful projects
+## Engineering focus
+
+- Privacy and application security
+- Practical products that solve real problems
+- Accessible, calm, and understandable user experiences
+- Maintainable code, documentation, and secure delivery
 
 ## Currently building
 
 - Privacy-first safety tools
-- Secure, cross-platform web experiences
-- Practical developer workflows and documentation
+- Secure cross-platform web experiences
+- Reusable developer workflows and project documentation
 
 ## Connect
 
